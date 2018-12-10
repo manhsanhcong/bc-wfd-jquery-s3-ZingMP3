@@ -1,0 +1,8 @@
+.poly-prod {
+    text-align: center;
+    padding: 14px;
+}
+
+.poly-prod .panel-body img {
+    max-width: 100%;
+}
